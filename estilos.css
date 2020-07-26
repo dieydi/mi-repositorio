@@ -1,0 +1,67 @@
+h1 {background-color: red;
+	color: darkblue; 
+	font-size: 50px;
+}
+.resaltado{
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+}
+h2{
+	background-color: blue;
+
+}
+body{
+	background-color: coral;
+
+}
+ol {
+	font-size: 48,
+	background-color green;
+	font-family: Times New Roman;
+}
+.arriba{
+color: red;
+
+}
+/*Enlance*/
+a:link{
+	color:red;
+}
+/* enlance visitado*/
+a:visited {
+	color: olivedrab;
+}
+
+/* ratón sobre el enlance pone el siguiente color al pasar el raton sobre el enlance */
+a:hover {
+	color: deeppink;
+
+}
+pre{
+	color: blue;
+}
+
+ol li{
+	list-style-type: arabic-indic;
+}
+
+dl dt { list-style-type:decimal;
+}
+
+/* Aqui van los estilos de los divs*/
+#bloque1{
+background-color: red;
+width:auto;
+margin: 1%;
+margin-left: 30px;
+}
+.yo{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	background-color: orange;
+	
